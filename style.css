@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.slider {
+  height: 50vh;
+  /* justify-content: center !important; */
+}
+.carousel-item img {
+  height: 450px;
+  width: 100%;
+}
