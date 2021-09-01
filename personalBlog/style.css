@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head-part{
+    height: 80px;
+}
+.banner img{
+    height: 380px;
+    width: 100%;
+}
+.footer{
+    height: 80px;
+}
